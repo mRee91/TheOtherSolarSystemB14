@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Rotate");
 
         Feature.sunBurn();
-        Feature.moon="dsgsda";
+        Feature.moon=300;
 
     }
 }
