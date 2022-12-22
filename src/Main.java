@@ -12,5 +12,8 @@ public class Main {
         System.out.println("Harry has cloned, and added extra line");
 
 
+        System.out.println("Car is yellow");
+
+
     }
 }
