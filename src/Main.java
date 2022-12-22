@@ -6,5 +6,7 @@ public class Main {
         Feature.sunBurn();
         Feature.moon=300;
 
+        System.out.println("first person cloned from branch and added code here");
+
     }
 }
